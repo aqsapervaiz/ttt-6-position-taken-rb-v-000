@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
 
-def position_taken?
+def position_taken? (board,index)
   puts {" "," "," "," "," "," "," "," "," "}
 
 if position_taken = " "
